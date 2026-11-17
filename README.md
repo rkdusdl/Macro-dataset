@@ -6,4 +6,4 @@ Monetary, Fiscal, Oil, Technology shock measure
 # Fiscal
 - https://www.cbo.gov/data/budget-economic-data
 - https://github.com/US-CBO
-- 
+- https://valerieramey.stanford.edu/research
